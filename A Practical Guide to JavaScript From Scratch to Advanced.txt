@@ -1,0 +1,5 @@
+- Brendam Eich
+- Netscape
+- mocha -> LiveScript -> Javascript
+- Interpreted Language  Õ «Ã «·Ì „ —Ã„ Browser
+- 
